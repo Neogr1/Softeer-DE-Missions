@@ -4,12 +4,18 @@ import pandas as pd
 from tabulate import tabulate
 from datetime import datetime
 
+'''
+function to log
+'''
 def write_log(msg: str):
     with open("etl_project_log.txt", 'a+') as f:
         now = datetime.now()
         now_formatted = now.strftime("[%Y-%B-%d-%H-%M-%S] ")
         f.write(now_formatted + msg.strip() + '\n')
 
+'''
+decorator for logging
+'''
 def log_step(step_name):
     def decorator(func):
         def wrapper(*args, **kwargs):
@@ -20,7 +26,10 @@ def log_step(step_name):
         return wrapper
     return decorator
 
-
+'''
+Extract
+function to scrap url
+'''
 @log_step("Scrapping HTML from URL")
 def get_soup(url):
     try:
@@ -29,9 +38,12 @@ def get_soup(url):
         return soup
     except:
         write_log("HTML request failed.")
-        exit(0)
+        exit(1)
 
-
+'''
+Transform
+function to parse html
+'''
 @log_step("Parsing HTML and transforming data")
 def parse_soup(soup):
     cbc_df = pd.read_csv("countries_by_continent.csv")
@@ -60,11 +72,15 @@ def parse_soup(soup):
     
     except:
         write_log("Parsing failed.")
-        exit(0)
+        exit(2)
 
+'''
+Load
+function to save result in json format
+'''
 @log_step("Saving data in json file")
 def save_data_in_json_format(df, json_path):
-    df.to_json(json_path, orient='records', indent=4)
+    df.to_json(json_path, orient='records', indent=4, force_ascii=False)
 
 
 def get_top5_average_by_region(df):
@@ -82,8 +98,10 @@ def print_data_frame(df):
     print(tabulate(df, headers='keys', tablefmt='psql', floatfmt=".2f"))
 
 
-
-def run(gdp_url, json_path):
+if __name__ == "__main__":
+    gdp_url = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
+    json_path = 'Countries_by_GDP.json'
+    
     # Extract: scrap html
     gdp_soup = get_soup(gdp_url)
 
@@ -97,13 +115,7 @@ def run(gdp_url, json_path):
     print("\n\n[ Countries whose GDP is upper than 100B USD ]")
     print_data_frame(gdp_df[gdp_df['GDP'] >= 100])
 
-    # Print average GDP of top 5 countries for each region
+    # Print average GDP of top 5 countries by region
     avg_gdp_df = get_top5_average_by_region(gdp_df)
-    print("\n\n[ Average GDP of top 5 countries for each region ]")
+    print("\n\n[ Average GDP of top 5 countries by region ]")
     print_data_frame(avg_gdp_df)
-
-
-if __name__ == "__main__":
-    gdp_url = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
-    json_path = 'Countries_by_GDP.json'
-    run(gdp_url, json_path)
