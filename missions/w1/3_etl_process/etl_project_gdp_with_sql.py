@@ -169,7 +169,7 @@ def print_db(data: list, header='keys') -> None:
 if __name__ == "__main__":
     gdp_url = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
     dp_path = 'World_Economies.db'
-    table_name = 'gdp_data'
+    table_name = 'Countries_by_GDP'
     
     # Extract: scrap html
     gdp_soup = get_soup(gdp_url)
