@@ -16,3 +16,155 @@
 [2024-July-04-16-58-09] Parsing HTML and transforming data finished.
 [2024-July-04-16-58-09] Saving data in json file started.
 [2024-July-04-16-58-09] Saving data in json file finished.
+[2024-July-05-16-00-32] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-00-33] Extracting Failed
+[2024-July-05-16-01-00] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-01-01] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-01-01] Transforming gdp data started.
+[2024-July-05-16-01-10] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-01-11] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-01-11] Transforming gdp data started.
+[2024-July-05-16-02-01] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-02-02] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-02-02] Transforming gdp data started.
+[2024-July-05-16-02-12] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-02-12] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-02-12] Transforming gdp data started.
+[2024-July-05-16-03-08] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-03-08] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-03-08] Transforming gdp data started.
+[2024-July-05-16-03-50] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-03-51] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-03-51] Transforming gdp data started.
+[2024-July-05-16-03-57] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-03-58] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-03-58] Transforming gdp data started.
+[2024-July-05-16-04-22] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-04-23] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-04-23] Transforming gdp data started.
+[2024-July-05-16-05-26] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-05-26] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-05-26] Transforming gdp data started.
+[2024-July-05-16-06-07] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-06-08] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-06-08] Transforming gdp data started.
+[2024-July-05-16-06-48] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-06-48] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-06-48] Transforming gdp data started.
+[2024-July-05-16-06-59] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-07-00] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-07-00] Transforming gdp data started.
+[2024-July-05-16-07-18] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-07-19] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-07-19] Transforming gdp data started.
+[2024-July-05-16-07-37] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-07-37] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-07-37] Transforming gdp data started.
+[2024-July-05-16-10-30] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-10-31] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-10-31] Transforming gdp data started.
+[2024-July-05-16-10-36] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-10-37] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-10-37] Transforming gdp data started.
+[2024-July-05-16-10-37] Transforming gdp data finished.
+[2024-July-05-16-10-37] Saving data in json file started.
+[2024-July-05-16-10-54] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-10-55] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-10-55] Transforming gdp data started.
+[2024-July-05-16-10-55] Transforming gdp data finished.
+[2024-July-05-16-10-55] Saving data in json file started.
+[2024-July-05-16-10-55] Saving data in json file finished.
+[2024-July-05-16-11-47] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-11-47] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-11-47] Transforming gdp data started.
+[2024-July-05-16-13-15] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-13-15] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-13-15] Transforming gdp data started.
+[2024-July-05-16-13-15] Transforming gdp data finished.
+[2024-July-05-16-13-15] Saving data in json file started.
+[2024-July-05-16-13-15] Saving data in json file finished.
+[2024-July-05-16-14-35] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-14-36] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-14-36] Transforming gdp data started.
+[2024-July-05-16-14-36] Transforming gdp data finished.
+[2024-July-05-16-14-36] Saving data in json file started.
+[2024-July-05-16-14-36] Saving data in json file finished.
+[2024-July-05-16-15-31] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-15-32] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-15-32] Transforming gdp data started.
+[2024-July-05-16-15-32] Transforming gdp data finished.
+[2024-July-05-16-15-32] Saving data in json file started.
+[2024-July-05-16-15-32] Saving data in json file finished.
+[2024-July-05-16-39-22] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-39-22] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-39-22] Transforming gdp data started.
+[2024-July-05-16-39-22] Transforming gdp data finished.
+[2024-July-05-16-39-22] Loading data in json file started.
+[2024-July-05-16-39-22] Loading data in json file finished.
+[2024-July-05-16-45-49] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-45-50] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-45-50] Transforming gdp data started.
+[2024-July-05-16-45-50] Transforming gdp data finished.
+[2024-July-05-16-45-50] Loading data in json file started.
+[2024-July-05-16-45-50] Loading data in json file finished.
+[2024-July-05-16-46-19] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-46-20] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-46-20] Transforming gdp data started.
+[2024-July-05-16-46-20] Transforming gdp data finished.
+[2024-July-05-16-46-20] Loading data in json file started.
+[2024-July-05-16-46-20] Loading data in json file finished.
+[2024-July-05-16-47-03] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-03] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-03] Transforming gdp data started.
+[2024-July-05-16-47-03] Transforming gdp data finished.
+[2024-July-05-16-47-03] Loading data in json file started.
+[2024-July-05-16-47-03] Loading data in json file finished.
+[2024-July-05-16-47-09] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-09] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-09] Transforming gdp data started.
+[2024-July-05-16-47-09] Transforming gdp data finished.
+[2024-July-05-16-47-09] Loading data in json file started.
+[2024-July-05-16-47-09] Loading data in json file finished.
+[2024-July-05-16-47-13] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-14] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-14] Transforming gdp data started.
+[2024-July-05-16-47-14] Transforming gdp data finished.
+[2024-July-05-16-47-14] Loading data in json file started.
+[2024-July-05-16-47-14] Loading data in json file finished.
+[2024-July-05-16-47-46] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-46] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-46] Transforming gdp data started.
+[2024-July-05-16-47-46] Transforming gdp data finished.
+[2024-July-05-16-47-46] Loading data in json file started.
+[2024-July-05-16-47-46] Loading data in json file finished.
+[2024-July-05-16-47-52] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-52] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-52] Transforming gdp data started.
+[2024-July-05-16-47-52] Transforming gdp data finished.
+[2024-July-05-16-47-52] Loading data in json file started.
+[2024-July-05-16-47-52] Loading data in json file finished.
+[2024-July-05-16-47-55] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-47-56] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-47-56] Transforming gdp data started.
+[2024-July-05-16-47-56] Transforming gdp data finished.
+[2024-July-05-16-47-56] Loading data in json file started.
+[2024-July-05-16-47-56] Loading data in json file finished.
+[2024-July-05-16-49-06] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-49-07] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-49-07] Transforming gdp data started.
+[2024-July-05-16-49-07] Transforming gdp data finished.
+[2024-July-05-16-49-07] Loading data in json file started.
+[2024-July-05-16-49-07] SQL ERROR: near "AUTO_INCREMENT": syntax error
+[2024-July-05-16-49-07] Loading data in json file finished.
+[2024-July-05-16-50-57] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-16-50-57] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-16-50-57] Transforming gdp data started.
+[2024-July-05-16-50-57] Transforming gdp data finished.
+[2024-July-05-16-50-57] Loading data in json file started.
+[2024-July-05-16-50-57] Loading data in json file finished.
+[2024-July-05-17-27-00] Extracting raw GDP data from Wikipedia started.
+[2024-July-05-17-27-00] Extracting raw GDP data from Wikipedia finished.
+[2024-July-05-17-27-00] Transforming gdp data started.
+[2024-July-05-17-27-00] Transforming gdp data finished.
+[2024-July-05-17-27-00] Loading data in json file started.
+[2024-July-05-17-27-00] Loading data in json file finished.
