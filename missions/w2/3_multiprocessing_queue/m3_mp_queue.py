@@ -9,16 +9,22 @@ if __name__ == '__main__':
     items = ['red', 'green', 'blue', 'black']
     q = Queue()
 
-    n = 1
+    n = 0
     print("pushing items to queue")
     for item in items:
         q.put(item)
         print(f"item no: {n} {item}")
         n += 1
     
-    n = 0
     print("popping items from queue")
-    while not q.empty():
-        item = q.get()
-        print(f"item no: {n} {item}")
-        n += 1
+    # while not q.empty():
+    while True:
+        try:
+            item = q.get()
+            print(f"item no: {n} {item}")
+            n -= 1
+            if n == 0:
+                break
+        except:
+            continue
+        
