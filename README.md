@@ -68,6 +68,6 @@
 ## Retrospective
 |        | Mon | Tue | Wed | Thu | Fri |
 | ------ | --- | --- | --- | --- | --- |
-| Week 1 | [w1d1](retrospect/w1/d1_240701.md) | [w1d2](retrospect/w1/d2_240702.md) | [w1d3](retrospect/w1/d3_240703.md) | [w1d4](retrospect/w1/d4_240704.md) | [w1d5](retrospect/w1/d5_240705.md) |
-| Week 2 | [w2d1](retrospect/w2/d1_240708.md) | [w2d2](retrospect/w2/d2_24079.md) | [w2d3](retrospect/w2/d3_240710.md) | [w2d4](retrospect/w2/d4_240711.md) | [w2d5](retrospect/w2/d5_240712.md) |
-| Week 3 |     |     |     |     |     |
+| Week 1 | [w1d1](retrospective/w1/d1_240701.md) | [w1d2](retrospective/w1/d2_240702.md) | [w1d3](retrospective/w1/d3_240703.md) | [w1d4](retrospective/w1/d4_240704.md) | [w1d5](retrospective/w1/d5_240705.md) |
+| Week 2 | [w2d1](retrospective/w2/d1_240708.md) | [w2d2](retrospective/w2/d2_240709.md) | [w2d3](retrospective/w2/d3_240710.md) | [w2d4](retrospective/w2/d4_240711.md) | [w2d5](retrospective/w2/d5_240712.md) |
+| Week 3 | [w3d1](retrospective/w3/d1_240715.md) | [w3d2](retrospective/w3/d2_240716.md) | [w3d3](retrospective/w3/d3_240717.md) | [w3d4](retrospective/w3/d4_240718.md) | [w3d5](retrospective/w3/d5_240719.md) |
