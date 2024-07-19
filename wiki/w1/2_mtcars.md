@@ -1,4 +1,4 @@
-# W1M1 - mtcars 데이터셋 분석하기
+# mtcars
 
 ## mtcars 데이터셋
 1974년 Motor Trend 미국 잡지에 출판된 자동차에 대한 데이터

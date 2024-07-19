@@ -4,24 +4,11 @@
 - 데이터 엔지니어링
 - 2024-07-01 ~ 2024-08-29
 
-## 바로가기
-| Week  | Lecture | Mission 1 | Mission 2 | Mission 3 | Mission 4 | Mission 5 | Mission 6 |
-|-------|---------|-----------|-----------|-----------|-----------|-----------|-----------|
-| [Week 1](#week-1) | [Lecture](wiki/w1/lecture.md) | [mtcars](wiki/w1/m1.md) | [SQL Tutorial](wiki/w1/m2.md) | [ETL Process](wiki/w1/m3.md) |
-| [Week 2](#week-2) | [Lecture](wiki/w2/lecture.md) | [MP: Pool](wiki/w2/m1.md) | [MP: Process](wiki/w2/m2.md) | [MP: Queue](wiki/w2/m3.md) | [MP: All in One](wiki/w2/m4.md) | [Sentiment Analysis](wiki/w2/m5.md) | [Docker Image to AWS EC2](wiki/w2/m6.md) |
-
-## Week 1
-### Lecture
-- [Lecture](/wiki/w1/lecture.md)
-### Missions
-- [Mission 1 - mtcars 데이터셋 분석하기](/wiki/w1/m1.md)
-- [Mission 2 - SQL Tutorial](/wiki/w1/m2.md)
-- [Mission 3 - ETL Process 구현하기](/wiki/w1/m3.md)
-
-## Week 2
-### Lecture
-
-### Missions
+## Wiki
+| Week  | Content 1 | Content 2 | Content 3 | Content 4 | Content 5 |
+|-------|-----------|-----------|-----------|-----------|-----------|
+| [Week 1](#week-1) | [Data Engineering](wiki/w1/1_data_engineering.md) | [mtcars](wiki/w1/2_mtcars.md) | [SQL](wiki/w1/3_sql.md) | [ETL Process](wiki/w1/4_etl.md) |
+| [Week 2](#week-2) | [Multiprocessing](wiki/w2/1_mp.md) |
 
 ## Retrospective
 |        | Mon | Tue | Wed | Thu | Fri |
