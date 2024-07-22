@@ -7,7 +7,7 @@
 ## Wiki
 | Week  | Content 1 | Content 2 | Content 3 | Content 4 | Content 5 |
 |-------|-----------|-----------|-----------|-----------|-----------|
-| [Week 1](#week-1) | [Data Engineering](wiki/w1/1_data_engineering.md) | [mtcars](wiki/w1/2_mtcars.md) | [SQL](wiki/w1/3_sql.md) | [ETL Process](wiki/w1/4_etl.md) |
+| [Week 1](#week-1) | [Data Engineering](wiki/w1/1_data_engineering.md) | [mtcars](wiki/w1/2_mtcars.md) | [SQL](wiki/w1/3_sql.md) | [ETL Process](wiki/w1/4_etl.md) | [Web Scraping](wiki/w1/5_web_scraping.md) |
 | [Week 2](#week-2) | [Multiprocessing](wiki/w2/1_mp.md) |
 
 ## Retrospective
