@@ -19,3 +19,5 @@
 | Week 4 | [w4d1](retrospective/w4/d1_240722.md) | [w4d2](retrospective/w4/d2_240723.md) | [w4d3](retrospective/w4/d3_240724.md) | [w4d4](retrospective/w4/d4_240725.md) | [w4d5](retrospective/w4/d5_240726.md) |
 | Week 5 | [w5d1](retrospective/w5/d1_240729.md) | [w5d2](retrospective/w5/d2_240730.md) | [w5d3](retrospective/w5/d3_240731.md) | [w5d4](retrospective/w5/d4_240801.md) | [w5d5](retrospective/w5/d5_240802.md) |
 | Week 6 | [w6d1](retrospective/w6/d1_240805.md) | [w6d2](retrospective/w6/d2_240806.md) | [w6d3](retrospective/w6/d3_240807.md) | [w6d4](retrospective/w6/d4_240808.md) | [w6d5](retrospective/w6/d5_240809.md) |
+| Week 7 | [w7d1](retrospective/w7/d1_240812.md) | [w7d2](retrospective/w7/d2_240813.md) | [w7d3](retrospective/w7/d3_240814.md) | [~~w7d4~~](retrospective/w7/d4_240815.md) | [w7d5](retrospective/w7/d5_240816.md) |
+| Week 8 | [w8d1](retrospective/w8/d1_240819.md) | [w8d2](retrospective/w8/d2_240820.md) | [w8d3](retrospective/w8/d3_240821.md) | [w8d4](retrospective/w8/d4_240822.md) | [w8d5](retrospective/w8/d5_240823.md) |
